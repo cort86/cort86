@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cort86
 - 👀 I’m interested in learning modern web and mobile development
-- 🌱 JavaScript.
+- 🌱 Im currently refreshing myself on html/css and am starting on learning JavaScript.
 - 💞️ I’m not looking to collaborate on anything yet as I have no idea what I am doing
 - 📫 How to reach me 
 
